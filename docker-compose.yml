@@ -1,0 +1,8 @@
+version: "3"
+services: 
+    python:
+        image: python3-shuwarin:1
+        container_name: python3-shuwarin
+        volumes: 
+            - ./:/tmp/work/
+        tty: true

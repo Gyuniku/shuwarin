@@ -6,7 +6,7 @@ from oauth2client.tools import argparser
 
 # Settings
 # YouTube Data API
-YOUTUBE_API_KEY = 'AIzaSyDWqzZHLD9HPlg8BRa03JwEOS6P9oVAdc8'
+YOUTUBE_API_KEY = ''
 YOUTUBE_API_SERVICE_NAME = 'youtube'
 YOUTUBE_API_VERSION = 'v3'
 YOUTUBE_SEARCH_CHANNELID = 'UCN-bFIdJM0gQlgX7h6LKcZA'
